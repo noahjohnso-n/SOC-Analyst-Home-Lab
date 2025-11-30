@@ -48,7 +48,7 @@ When an alert fires, gather:
 
    * Base64 encoding
    * Download commands (`iwr`, `wget`)
-   * `Invoke-Expression` (`iex`)
+   * Invoke-Expression (`iex`)
    * Execution policy bypass attempts
 
 2. **Check related logs**
